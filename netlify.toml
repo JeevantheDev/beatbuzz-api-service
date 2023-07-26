@@ -1,0 +1,10 @@
+[build]
+  command = "npm install && npm run build:dev"
+  functions = "functions"
+  NODE_ENV = "production"
+
+[dev]
+  publish="dist"
+  port = 7998
+  NODE_ENV = "development"
+
