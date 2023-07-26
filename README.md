@@ -1,3 +1,1 @@
-## beatbuzz-user-service
-
-> Beatbuzz application user auth service
+## BeatBuzz API Service
